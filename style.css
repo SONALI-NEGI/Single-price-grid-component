@@ -144,13 +144,12 @@ background-color: var(--bg-green);
   color: var(--text-white);
 }
 .price-card__list{
-  list-style: none;
   color: var(--text-light-gray);
   text-decoration: none;
   padding-left: 0;
   font-size: 1rem;
 }
-.price-card__list li:hover{
+.price-card__list p:hover{
   color: var(--text-white);
 }
 
