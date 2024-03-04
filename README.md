@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Single price grid component (HTML & CSS) | Frontend Mentor ](https://www.frontendmentor.io/solutions/single-price-grid-component-html-and-css-pkgz1g7jJO)
-- Live Site URL: [https://sonali-negi.github.io/Single-price-grid-component/]
+- Live Site URL: [https://sonali-negi.github.io/Single-price-grid-component/](https://sonali-negi.github.io/Single-price-grid-component/)
 
 ## My process
 
